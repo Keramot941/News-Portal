@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.navBar{
+    box-shadow: none;
+    width: 100%;
+    margin-top: 15px;
+    padding: 15px auto;
+}
+#news{
+    color: #fff;
+    background-color: #5d5fef;
+    /* box-shadow: rgba(15, 15, 180, 0.767); */
+    border-radius: 5px;
+    font-size: 13px;
+}
+#Portal{
+    color: #5d5fef;
+    font-size: 15px;
+}
